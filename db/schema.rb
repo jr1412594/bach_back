@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(version: 2020_12_02_172003) do
     t.text "image"
     t.integer "age"
     t.string "occupation"
-    t.text "likes"
+    t.text "about"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

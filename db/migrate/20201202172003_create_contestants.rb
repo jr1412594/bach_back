@@ -5,7 +5,7 @@ class CreateContestants < ActiveRecord::Migration[6.0]
       t.text :image
       t.integer :age
       t.string :occupation
-      t.text :likes
+      t.text :about
 
       t.timestamps
     end
