@@ -7,4 +7,4 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 Contestant.destroy_all
 
-Contestant.create(name:"", age: , occupation:"", likes:"" )
+Contestant.create(name:"", image:"" age: , occupation:"", likes:"" )
