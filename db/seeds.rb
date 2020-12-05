@@ -244,3 +244,11 @@ Contestant.create(
     age: 37,
     occupation:"Clearning Serveice Owner",
     )
+
+User.create(
+    username: "Kwood",
+    first_name: "Karina",
+    last_name: "Woodka",
+    password_digest: "miso"
+
+)
